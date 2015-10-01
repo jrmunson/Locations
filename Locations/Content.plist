@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Content</key>
+	<dict>
+		<key>data</key>
+		<array>
+			<array>
+				<string>Texas Department of Public Safety</string>
+				<string>6121 North Lamar Boulevard</string>
+				<string></string>
+				<string>Austin</string>
+				<string>TX</string>
+				<string>78752</string>
+				<string>TDPS</string>
+				<real>30.329754999999995</real>
+				<real>-97.723194000000007</real>
+			</array>
+			<array>
+				<string>University Medical Center at Brackenridge</string>
+				<string>601 E 15th St</string>
+				<string></string>
+				<string>Austin</string>
+				<string>TX</string>
+				<string>78701</string>
+				<string>HOSP</string>
+				<real>30.274382999999993</real>
+				<real>-97.733947999999998</real>
+			</array>
+			<array>
+				<string>Texas Department of Public Safety - Austin South</string>
+				<string>13730 Research Boulevard</string>
+				<string></string>
+				<string>Austin</string>
+				<string>TX</string>
+				<string>78744</string>
+				<string>TDPS</string>
+				<real>30.191004999999997</real>
+				<real>-97.767441999999988</real>
+			</array>
+			<array>
+				<string>St. David's Medical Center</string>
+				<string>919 E 32nd St</string>
+				<string></string>
+				<string>Austin</string>
+				<string>TX</string>
+				<string>78705</string>
+				<string>HOSP</string>
+				<real>30.290136999999998</real>
+				<real>-97.726208000000014</real>
+			</array>
+		</array>
+		<key>meta</key>
+		<dict>
+			<key>view</key>
+			<dict>
+				<key>Address</key>
+				<string>1234 North 1st Street</string>
+				<key>City</key>
+				<string>Austin</string>
+				<key>Identifier</key>
+				<string>TDPS or Hospital</string>
+				<key>Lat</key>
+				<real>30.327262000000001</real>
+				<key>Lon</key>
+				<real>-97.722788000000008</real>
+				<key>State</key>
+				<string>TX</string>
+				<key>Suite Number</key>
+				<string></string>
+				<key>Zip</key>
+				<string>78752-4431</string>
+				<key>id</key>
+				<string>wktlbme</string>
+				<key>name</key>
+				<string>Texas Department of Public Safety</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
